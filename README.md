@@ -15,8 +15,8 @@ Here are some of the tools, frameworks, and languages I frequently work with:
 ## 👨‍💻 About Me
 I’m a passionate solo developer committed to creating open-source software that is impactful and useful to others. Whether you’re looking to collaborate, contribute, or just explore, feel free to reach out.
 
-- 💼 Portfolio: [Your Website/Portfolio Link](https://bytejutsu.com)
-- 📫 Contact me: [your.email@example.com](mailto:bytejutsuproject@gmail.com)
+- 💼 Portfolio: [www.bytejutsu.com](https://bytejutsu.com)
+- 📫 Contact me: [bytejutsuproject@gmail.com](mailto:bytejutsuproject@gmail.com)
 - 🐦 X: [X Profile](https://x.com/bytejutsu)
 
 ## 🤝 How to Contribute
